@@ -28,15 +28,108 @@ It became so popular, in fact, that the annual talk had to be limited to the fir
 Outline
 -------
 
-| topic | see in video |
-| --- | --- |
-| Introduction |  @00:16 |
-| Rules of Engagement |  @03:11 |
-| How to Start |  @04:15 |
-| Four Sample Heuristics |  @05:38 |
-| The Tools: Time and Place |  @10:17 |
-| The Tools: Boards, Props, and Slides |  @13:24 |
-| Informing: Promise, Inspiration, How to Think |  @36:30 |
-| Persuading: Oral Exams, Job Talks, Getting Famous |  @41:30 |
-| How to Stop: Final Slide, Final Words   |  @53:06 |
-| Final Words: Joke, Thank You, Examples   |  @56:35
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+topic
+{{< thclose >}}
+{{< thopen >}}
+see in video
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ @00:16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rules of Engagement
+{{< tdclose >}}
+{{< tdopen >}}
+ @03:11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+How to Start
+{{< tdclose >}}
+{{< tdopen >}}
+ @04:15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four Sample Heuristics
+{{< tdclose >}}
+{{< tdopen >}}
+ @05:38
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Tools: Time and Place
+{{< tdclose >}}
+{{< tdopen >}}
+ @10:17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Tools: Boards, Props, and Slides
+{{< tdclose >}}
+{{< tdopen >}}
+ @13:24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Informing: Promise, Inspiration, How to Think
+{{< tdclose >}}
+{{< tdopen >}}
+ @36:30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Persuading: Oral Exams, Job Talks, Getting Famous
+{{< tdclose >}}
+{{< tdopen >}}
+ @41:30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿How to Stop: Final Slide, Final Words  
+{{< tdclose >}}
+{{< tdopen >}}
+ @53:06
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+﻿Final Words: Joke, Thank You, Examples  
+{{< tdclose >}}
+{{< tdopen >}}
+ @56:35
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
